@@ -1,15 +1,5 @@
-#AUSENTISMO LABORAL
+#Presentación del conjunto de datos
 
-## Introducción
 
-El ausentismo es definido como la ausencia de un empleado en su ambiente laboral con justificación o sin ella [1]. Cuando esto ocurre en una compañía puede llevar a a aumento de costos y sobrecarga en los otros empleados llevando a sobrecarga o desmotivacion [2].Las causas pueden ser múltiples desde enfermedades, problemas económicos, razones personales,falta de interés entre otras [3] En EEUU menos de la mitad de las compañías tiene un sistema de rastreo de ausentismo y solo un 16% implementan medidas para reducirlo [4],por esta razón este evento tiene un impacto significativo en le desarrollo financiero de las empresas teniendo un fuerte impacto en la estructura organizacional.
-
-## Finalidad del estudio
-
-El objetivo del análisis de este conjunto de datos es aplicar técnicas de series de tiempo para identificar el comportamiento del ausentismo a través de un periodo de tiempo; esto permitirá desarrrollar estrategias para maximizar la eficiencia operativa de la empresa al identificar los factores asociados al ausentismo laboral.
-
-## Diseño del estudio
-
-La base de datos a utilizar es Absenteeism at work es una base de acceso libre del UCI Machine Learning Repository cuyo dataset contiene información de julio de 2007 a julio de 2010 en una compañia en Brazil. Los datos contienen 740 registros en 19 variables. Esta base de datos posee características que la hacen idónea para la investigación al poseer cobertura conceptual (la información corresponde a la finalidad del estudio), cobertura geográfica (Brazil), cobertura temporal (2007-2010) y amplitud porque en esta fuente de tipo secundario se obtendrá la información de las variables geográficas, demográficas y de otras variables relacionadas con el ausentismo.
 
 
