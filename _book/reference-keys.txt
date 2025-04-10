@@ -24,3 +24,6 @@ publishing
 pages
 metadata-for-sharing
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
+introducción
+finalidad-del-estudio
+diseño-del-estudio

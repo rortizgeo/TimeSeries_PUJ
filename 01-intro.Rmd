@@ -1,4 +1,4 @@
-AUSENTISMO LABORAL
+#AUSENTISMO LABORAL
 
 ## Introducción
 
@@ -11,3 +11,5 @@ El objetivo del análisis de este conjunto de datos es aplicar técnicas de seri
 ## Diseño del estudio
 
 La base de datos a utilizar es Absenteeism at work es una base de acceso libre del UCI Machine Learning Repository cuyo dataset contiene información de julio de 2007 a julio de 2010 en una compañia en Brazil. Los datos contienen 740 registros en 19 variables. Esta base de datos posee características que la hacen idónea para la investigación al poseer cobertura conceptual (la información corresponde a la finalidad del estudio), cobertura geográfica (Brazil), cobertura temporal (2007-2010) y amplitud porque en esta fuente de tipo secundario se obtendrá la información de las variables geográficas, demográficas y de otras variables relacionadas con el ausentismo.
+
+
