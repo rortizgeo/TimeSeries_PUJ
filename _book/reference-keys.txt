@@ -2,12 +2,9 @@ fig:nice-fig
 tab:nice-tab
 eq:binom
 thm:tri
-about
-usage
-render-book
-preview-book
-hello-bookdown
-a-section
+ausentismo-laboral
+finalidad-del-estudio
+diseño-del-estudio
 cross
 chapters-and-sub-chapters
 captioned-figures-and-tables
@@ -24,10 +21,3 @@ publishing
 pages
 metadata-for-sharing
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
-introducción
-finalidad-del-estudio
-diseño-del-estudio
-introducción-1
-finalidad-del-estudio-1
-diseño-del-estudio-1
-ausentismo-laboral

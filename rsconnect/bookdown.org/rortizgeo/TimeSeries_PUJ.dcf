@@ -1,0 +1,12 @@
+name: TimeSeries_PUJ
+title:
+username: rortizgeo
+account: rortizgeo
+server: bookdown.org
+hostUrl: https://bookdown.org/__api__
+appId: 15135
+bundleId: 105082
+url: https://bookdown.org/rortizgeo/TimeSeries_PUJ/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
